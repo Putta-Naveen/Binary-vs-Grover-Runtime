@@ -22,7 +22,7 @@ pip install numpy matplotlib qiskit qiskit-aer
 jupyter notebook "Binary vs Grover Runtime.ipynb"
 
 ## Contributors:
-- Stephen Wheeler
+- Stephen Wheeler, Ph.D.
 - Naveen Putta
 - Vinay Reddy Jakka
 
